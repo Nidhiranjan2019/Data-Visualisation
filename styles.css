@@ -1,0 +1,25 @@
+body{
+    background-color: #f1ebf0;
+    opacity: 1;
+    background-image:  radial-gradient(#86259a 2px, transparent 2px), radial-gradient(#86259a 2px, #f1ebf0 2px);
+    background-size: 80px 80px;
+    background-position: 0 0,40px 40px;
+  }
+  h1{
+    text-align: center;
+    /* text-shadow: 2px 2px 2px purple; */
+    color: #f25287;
+  }
+  h2{
+    text-align: center;
+    /* text-shadow: 2px 2px 2px purple; */
+    /* color: yellow;  */
+  }
+ .container{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ }
+
+ #beverage, #chocolate, #vacation{
+  margin-top: 5%;
+   margin-bottom: 5%;
+ }
